@@ -14,3 +14,5 @@ function click() {
   console.log(`You've been clicked!`);
   if (numTimesClicked === 10) win();
 }
+
+export default click;
